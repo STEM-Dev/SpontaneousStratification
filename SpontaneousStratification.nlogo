@@ -173,7 +173,7 @@ See the THINGS TO TRY section in the info tab\n
 @#$#@#$#@
 ## WHAT IS IT?
 
-Spontaneous Stratification is a natural process in granular mixtures and an example of emergent pattern formation. This can be seen with a simple experiment by pouring a mixture of sand and large-grain colored sugar between two sheets of glass or plastic (a Hele-Shaw cell). See the Reference section below for links to videos.
+Spontaneous Stratification is a natural process in granular mixtures and an example of emergent pattern formation. This phenomena can be seen with a simple experiment by pouring a mixture of sand and large-grain colored sugar between two sheets of glass or plastic (a Hele-Shaw cell). See the Reference section below for links to videos.
 
 ## HOW IT WORKS
 
@@ -530,7 +530,7 @@ Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 
 @#$#@#$#@
-NetLogo 5.0.5
+NetLogo 5.1.0
 @#$#@#$#@
 @#$#@#$#@
 @#$#@#$#@
