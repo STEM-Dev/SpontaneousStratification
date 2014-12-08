@@ -1,7 +1,7 @@
 SpontaneousStratification
 =========================
 
-NetLogo Model of Spontaneous Stratification, a natural process in granular mixtures and an example of emergent pattern formation. This phenomena can be seen with a simple experiment by pouring a mixture of sand and large-grain colored sugar between two sheets of glass or plastic (a Hele-Shaw cell). This model is inspired by a video essay by George W. Hart for the Simons Foundation.
+NetLogo Model of Spontaneous Stratification, a natural process in granular mixtures and an example of emergent pattern formation. This phenomena can be seen with a simple experiment by pouring a mixture of sand and large-grain colored sugar between two sheets of glass or plastic (a Hele-Shaw cell). This model is inspired by a video essay by George W. Hart for the Simons Foundation. See the Reference section below for links to videos.
 
 ![screenshot](https://github.com/VicCastillo/SpontaneousStratification/blob/master/SpontaneousStratification-Sreenshot.PNG)
 
@@ -38,7 +38,7 @@ This is inspired by one of the video essays by George W. Hart for the Simons Fou
 
 *  Mathematical Impressions: Spontaneous Stratification
 by: George Hart May 23, 2014
-http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification/
+http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification
  
 *  Stratification & Segregation: Spontaneous Stratification & Segregation
 Schlumberger Excellence in Education Development (SEED)
@@ -48,8 +48,13 @@ http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation
 
 *  Pierre Cizeau, Hernan A. Makse, and H. Eugene Stanley. “Mechanisms of granular spontaneous stratification and segregation in two-dimensional silos.” Physical Review E 59 (April 1999).
 
-Version 8/25/2014
+## LICENSE
+
 Spontaneous Stratification Model. 
 CopyRight 2014 Vic Castillo
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+## REPOSITORY
+
+https://github.com/VicCastillo/SpontaneousStratification

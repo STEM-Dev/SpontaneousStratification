@@ -112,7 +112,7 @@ percent-red
 percent-red
 0
 100
-8
+20
 1
 1
 NIL
@@ -171,9 +171,12 @@ See the THINGS TO TRY section in the info tab\n
 1
 
 @#$#@#$#@
-## WHAT IS IT?
+SpontaneousStratification
+=========================
 
-Spontaneous Stratification is a natural process in granular mixtures and an example of emergent pattern formation. This phenomena can be seen with a simple experiment by pouring a mixture of sand and large-grain colored sugar between two sheets of glass or plastic (a Hele-Shaw cell). See the Reference section below for links to videos.
+NetLogo Model of Spontaneous Stratification, a natural process in granular mixtures and an example of emergent pattern formation. This phenomena can be seen with a simple experiment by pouring a mixture of sand and large-grain colored sugar between two sheets of glass or plastic (a Hele-Shaw cell). This model is inspired by a video essay by George W. Hart for the Simons Foundation. See the Reference section below for links to videos.
+
+![screenshot](https://github.com/VicCastillo/SpontaneousStratification/blob/master/SpontaneousStratification-Sreenshot.jpg)
 
 ## HOW IT WORKS
 
@@ -218,11 +221,16 @@ http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation
 
 *  Pierre Cizeau, Hernan A. Makse, and H. Eugene Stanley. “Mechanisms of granular spontaneous stratification and segregation in two-dimensional silos.” Physical Review E 59 (April 1999).
 
-Version 8/25/2014
+## LICENSE
+
 Spontaneous Stratification Model. 
 CopyRight 2014 Vic Castillo
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+## REPOSITORY
+
+https://github.com/VicCastillo/SpontaneousStratification
 @#$#@#$#@
 default
 true
