@@ -176,9 +176,6 @@ SpontaneousStratification
 
 NetLogo Model of Spontaneous Stratification, a natural process in granular mixtures and an example of emergent pattern formation. This phenomena can be seen with a simple experiment by pouring a mixture of sand and large-grain colored sugar between two sheets of glass or plastic (a Hele-Shaw cell). This model is inspired by a video essay by George W. Hart for the Simons Foundation. See the Reference section below for links to videos.
 
-![screenshot]
-(http://raw.githubusercontent.com/VicCastillo/SpontaneousStratification/master/SpontaneousStratification-Screenshot.jpg)
-
 ## HOW IT WORKS
 
 The white particles are smaller and flow better than the larger red particles. The smaller particles can get trapped by the larger particles while the larger particles flow better in the presence of the smaller particles.
@@ -200,6 +197,7 @@ Now, set the percent-red to 20 (equal volumes because the red particles are four
 Note that the auto-run? switch allows the top feed to move to the right.
 
 ## EXTENDING THE MODEL
+
 Add a switch to toggle between spontaneous stratification and spontaneous separation. Hint: consider pure 2D vs. "quasi-2D"
 
 ## NETLOGO FEATURES
@@ -224,10 +222,9 @@ http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation
 
 ## LICENSE
 
-Spontaneous Stratification Model. 
-CopyRight 2014 Vic Castillo
+Spontaneous Stratification Model. CopyRight 2014 Vic Castillo
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License</a>.
 
 ## REPOSITORY
 
