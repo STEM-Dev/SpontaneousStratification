@@ -177,7 +177,7 @@ SpontaneousStratification
 NetLogo Model of Spontaneous Stratification, a natural process in granular mixtures and an example of emergent pattern formation. This phenomena can be seen with a simple experiment by pouring a mixture of sand and large-grain colored sugar between two sheets of glass or plastic (a Hele-Shaw cell). This model is inspired by a video essay by George W. Hart for the Simons Foundation. See the Reference section below for links to videos.
 
 ![screenshot]
-(https://raw.githubusercontent.com/VicCastillo/SpontaneousStratification/master/SpontaneousStratification-Screenshot.PNG)
+(http://raw.githubusercontent.com/VicCastillo/SpontaneousStratification/master/SpontaneousStratification-Screenshot.jpg)
 
 ## HOW IT WORKS
 
