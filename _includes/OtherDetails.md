@@ -37,7 +37,7 @@ by: George Hart May 23, 2014 [http://www.simonsfoundation.org/multimedia/mathema
 Schlumberger Excellence in Education Development (SEED)
 [http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation/](http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation/)
 
--  Hernan A. Makse, Shlomo Havlin, Peter R. King, and H. Eugene Stanley. “Spontaneous Stratification in Granular Mixtures.” Nature 386 (March 1997): 379–81, [http://arxiv.org/pdf/cond-mat/9809432v1/](http://arxiv.org/pdf/cond-mat/9809432v1/).
+-  Hernan A. Makse, Shlomo Havlin, Peter R. King, and H. Eugene Stanley. ''Spontaneous Stratification in Granular Mixtures.'' Nature 386 (March 1997): 379–81, [http://arxiv.org/pdf/cond-mat/9809432v1/](http://arxiv.org/pdf/cond-mat/9809432v1/).
 
 -  Pierre Cizeau, Hernan A. Makse, and H. Eugene Stanley. “Mechanisms of granular spontaneous stratification and segregation in two-dimensional silos.” Physical Review E 59 (April 1999).
 
