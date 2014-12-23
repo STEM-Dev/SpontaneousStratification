@@ -33,3 +33,6 @@ This is inspired by one of the video essays by George W. Hart for the Simons Fou
 -  Mathematical Impressions: Spontaneous Stratification
 by: George Hart May 23, 2014 [http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification/](http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification/)
  
+-  Stratification & Segregation: Spontaneous Stratification & Segregation
+Schlumberger Excellence in Education Development (SEED)
+[http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation](http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation)
