@@ -31,5 +31,4 @@ Patch-sets are used to organizing the patches that each turtle tries to occupy, 
 This is inspired by one of the video essays by George W. Hart for the Simons Foundation
 
 -  Mathematical Impressions: Spontaneous Stratification
-by: George Hart May 23, 2014
-![http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification/](http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification/)
+by: George Hart May 23, 2014 http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification/
