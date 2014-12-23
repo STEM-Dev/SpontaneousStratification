@@ -25,3 +25,11 @@ Add a switch to toggle between spontaneous stratification and spontaneous separa
 ## NETLOGO FEATURES
 
 Patch-sets are used to organizing the patches that each turtle tries to occupy, moves from, and moves to. This is especially useful for turtles that need to "occupy" more than one patch. (In NetLogo, a turtle automatically occupies one and only one patch).
+
+## CREDITS AND REFERENCES
+
+This is inspired by one of the video essays by George W. Hart for the Simons Foundation
+
+-  Mathematical Impressions: Spontaneous Stratification
+by: George Hart May 23, 2014
+![http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification/](http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification/)
