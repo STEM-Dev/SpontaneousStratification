@@ -37,7 +37,6 @@ by: George Hart May 23, 2014 [http://www.simonsfoundation.org/multimedia/mathema
 Schlumberger Excellence in Education Development (SEED)
 [http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation](http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation)
 
-
 -  Pierre Cizeau, Hernan A. Makse, and H. Eugene Stanley. “Mechanisms of granular spontaneous stratification and segregation in two-dimensional silos.” Physical Review E 59 (April 1999).
 
 ## LICENSE
