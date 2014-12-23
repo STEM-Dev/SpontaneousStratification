@@ -30,17 +30,17 @@ Patch-sets are used to organizing the patches that each turtle tries to occupy, 
 
 This is inspired by one of the video essays by George W. Hart for the Simons Foundation
 
-*  Mathematical Impressions: Spontaneous Stratification
+-  Mathematical Impressions: Spontaneous Stratification
 by: George Hart May 23, 2014
 http://www.simonsfoundation.org/multimedia/mathematical-impressions-multimedia/mathematical-impressions-spontaneous-stratification/
  
-*  Stratification & Segregation: Spontaneous Stratification & Segregation
+-  Stratification & Segregation: Spontaneous Stratification & Segregation
 Schlumberger Excellence in Education Development (SEED)
 http://www.planetseed.com/relatedarticle/spontaneous-stratification-segregation
 
-*  Hernan A. Makse, Shlomo Havlin, Peter R. King, and H. Eugene Stanley. “Spontaneous Stratification in Granular Mixtures.” Nature 386 (March 1997): 379–81, http://arxiv.org/pdf/cond-mat/9809432v1.
+-  Hernan A. Makse, Shlomo Havlin, Peter R. King, and H. Eugene Stanley. “Spontaneous Stratification in Granular Mixtures.” Nature 386 (March 1997): 379–81, http://arxiv.org/pdf/cond-mat/9809432v1.
 
-*  Pierre Cizeau, Hernan A. Makse, and H. Eugene Stanley. “Mechanisms of granular spontaneous stratification and segregation in two-dimensional silos.” Physical Review E 59 (April 1999).
+-  Pierre Cizeau, Hernan A. Makse, and H. Eugene Stanley. “Mechanisms of granular spontaneous stratification and segregation in two-dimensional silos.” Physical Review E 59 (April 1999).
 
 ## LICENSE
 
