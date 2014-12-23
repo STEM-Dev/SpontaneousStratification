@@ -1,0 +1,14 @@
+modelname   : SpontaneousStratification
+modelcomment: >
+    Template for model pages. 
+baseurl     : /SpontaneousStratification
+devname     : VicCastillo 
+accountname : STEM-Dev
+preurl      : https://github.com/STEM-Dev
+#
+gems:
+  - jekyll-sitemap
+markdown: redcarpet
+exclude:  ['NIL']
+encoding: UTF-8
+
